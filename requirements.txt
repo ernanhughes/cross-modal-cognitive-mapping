@@ -1,0 +1,7 @@
+ollama
+pgvector
+psycopg2-binary
+python-dotenv
+matplotlib
+scikit-learn
+networkx 
